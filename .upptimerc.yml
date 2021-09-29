@@ -9,6 +9,10 @@ sites:
     url: https://templatekit.jegtheme.com/
   - name: JNews
     url: https://jnews.io/default/
+  - name: JNews TF
+    url: https://themeforest.net/item/jnews-one-stop-solution-for-web-publishing/20566392
+  - name: JNews TF Preview
+    url: https://preview.themeforest.net/item/jnews-one-stop-solution-for-web-publishing/full_screen_preview/20566392
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
