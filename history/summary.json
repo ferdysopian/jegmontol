@@ -4,9 +4,9 @@
     "url": "https://support.jegtheme.com/",
     "icon": "https://favicons.githubusercontent.com/support.jegtheme.com",
     "slug": "support",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1571,
     "timeMonth": 714,
     "timeYear": 548,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-14": 0
+    }
   },
   {
     "name": "Templatekit",
