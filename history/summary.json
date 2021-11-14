@@ -4,19 +4,19 @@
     "url": "https://support.jegtheme.com/",
     "icon": "https://favicons.githubusercontent.com/support.jegtheme.com",
     "slug": "support",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 7896,
-    "timeWeek": 1571,
-    "timeMonth": 714,
-    "timeYear": 548,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 546,
+    "timeDay": 4167,
+    "timeWeek": 1430,
+    "timeMonth": 706,
+    "timeYear": 546,
     "dailyMinutesDown": {
-      "2021-11-14": 0
+      "2021-11-14": 24
     }
   },
   {
