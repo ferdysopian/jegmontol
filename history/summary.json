@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
-    "time": 565,
-    "timeDay": 449,
-    "timeWeek": 567,
-    "timeMonth": 813,
-    "timeYear": 565,
+    "time": 563,
+    "timeDay": 437,
+    "timeWeek": 600,
+    "timeMonth": 809,
+    "timeYear": 563,
     "dailyMinutesDown": {
       "2021-11-27": 24,
       "2021-11-14": 24
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 333,
-    "timeDay": 660,
-    "timeWeek": 291,
-    "timeMonth": 440,
+    "timeDay": 493,
+    "timeWeek": 324,
+    "timeMonth": 434,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2021-11-27": 24
@@ -52,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 91,
-    "timeWeek": 102,
+    "timeDay": 105,
+    "timeWeek": 109,
     "timeMonth": 127,
     "timeYear": 135,
     "dailyMinutesDown": {}
@@ -63,35 +63,39 @@
     "url": "https://themeforest.net/item/jnews-one-stop-solution-for-web-publishing/20566392",
     "icon": "https://favicons.githubusercontent.com/themeforest.net",
     "slug": "j-news-tf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 286,
-    "timeWeek": 315,
-    "timeMonth": 357,
-    "timeYear": 369,
-    "dailyMinutesDown": {}
+    "time": 365,
+    "timeDay": 212,
+    "timeWeek": 301,
+    "timeMonth": 348,
+    "timeYear": 365,
+    "dailyMinutesDown": {
+      "2021-12-07": 0
+    }
   },
   {
     "name": "JNews TF Preview",
     "url": "https://preview.themeforest.net/item/jnews-one-stop-solution-for-web-publishing/full_screen_preview/20566392",
     "icon": "https://favicons.githubusercontent.com/preview.themeforest.net",
     "slug": "j-news-tf-preview",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 204,
-    "timeWeek": 191,
-    "timeMonth": 241,
-    "timeYear": 225,
-    "dailyMinutesDown": {}
+    "time": 224,
+    "timeDay": 165,
+    "timeWeek": 186,
+    "timeMonth": 234,
+    "timeYear": 224,
+    "dailyMinutesDown": {
+      "2021-12-07": 0
+    }
   }
 ]
