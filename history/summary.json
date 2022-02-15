@@ -68,9 +68,9 @@
     "url": "https://themeforest.net/item/jnews-one-stop-solution-for-web-publishing/20566392",
     "icon": "https://favicons.githubusercontent.com/themeforest.net",
     "slug": "j-news-tf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -80,6 +80,7 @@
     "timeMonth": 369,
     "timeYear": 388,
     "dailyMinutesDown": {
+      "2022-02-15": 0,
       "2021-12-07": 38
     }
   },
