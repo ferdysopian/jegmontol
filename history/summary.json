@@ -5,24 +5,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.jegtheme.com.ico",
     "slug": "support",
     "status": "up",
-    "uptime": "96.26%",
+    "uptime": "96.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 511,
-    "timeDay": 358,
-    "timeWeek": 507,
-    "timeMonth": 763,
-    "timeYear": 509,
+    "time": 510,
+    "timeDay": 801,
+    "timeWeek": 551,
+    "timeMonth": 768,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2023-05-11": 64,
       "2022-11-29": 56,
       "2022-07-21": 46,
       "2022-07-02": 18,
       "2022-06-30": 163,
-      "2022-06-21": 37,
-      "2022-06-14": 43
+      "2022-06-21": 37
     }
   },
   {
@@ -37,10 +36,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.84%",
     "time": 383,
-    "timeDay": 259,
-    "timeWeek": 449,
-    "timeMonth": 639,
-    "timeYear": 395,
+    "timeDay": 573,
+    "timeWeek": 464,
+    "timeMonth": 638,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2023-05-26": 64,
       "2023-05-11": 63,
@@ -52,8 +51,7 @@
       "2022-11-24": 92,
       "2022-07-02": 18,
       "2022-06-30": 163,
-      "2022-06-21": 19,
-      "2022-06-14": 43
+      "2022-06-21": 19
     }
   },
   {
@@ -68,15 +66,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 314,
-    "timeDay": 97,
-    "timeWeek": 145,
-    "timeMonth": 143,
+    "timeDay": 231,
+    "timeWeek": 158,
+    "timeMonth": 145,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2022-07-14": 100,
       "2022-07-02": 18,
-      "2022-06-30": 163,
-      "2022-06-14": 43
+      "2022-06-30": 163
     }
   },
   {
@@ -91,17 +88,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 361,
-    "timeDay": 275,
-    "timeWeek": 331,
+    "timeDay": 408,
+    "timeWeek": 340,
     "timeMonth": 380,
-    "timeYear": 346,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2023-02-13": 21,
       "2023-01-30": 21,
       "2022-07-02": 18,
       "2022-06-30": 163,
-      "2022-06-21": 19,
-      "2022-06-14": 43
+      "2022-06-21": 19
     }
   },
   {
@@ -115,8 +111,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 208,
-    "timeDay": 135,
+    "time": 207,
+    "timeDay": 190,
     "timeWeek": 215,
     "timeMonth": 219,
     "timeYear": 202,
@@ -126,8 +122,7 @@
       "2022-10-16": 19,
       "2022-07-02": 18,
       "2022-06-30": 163,
-      "2022-06-21": 17,
-      "2022-06-14": 43
+      "2022-06-21": 17
     }
   }
 ]
