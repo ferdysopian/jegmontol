@@ -4,11 +4,11 @@
     "url": "https://support.jegtheme.com/",
     "icon": "https://icons.duckduckgo.com/ip3/support.jegtheme.com.ico",
     "slug": "support",
-    "status": "up",
+    "status": "down",
     "uptime": "96.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.18%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.66%",
     "time": 716,
     "timeDay": 520,
@@ -16,6 +16,7 @@
     "timeMonth": 2189,
     "timeYear": 785,
     "dailyMinutesDown": {
+      "2023-12-06": 2,
       "2023-11-30": 41,
       "2023-11-28": 36,
       "2023-11-27": 36,
@@ -68,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jnews.io.ico",
     "slug": "j-news",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "85.86%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.96%",
     "time": 234,
     "timeDay": 250,
     "timeWeek": 143,
     "timeMonth": 148,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2023-12-06": 0
+      "2023-12-06": 204
     }
   },
   {
