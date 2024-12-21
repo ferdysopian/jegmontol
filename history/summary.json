@@ -57,19 +57,19 @@
     "url": "https://jnews.io/default/",
     "icon": "https://icons.duckduckgo.com/ip3/jnews.io.ico",
     "slug": "j-news",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 464,
-    "timeDay": 2456,
-    "timeWeek": 878,
-    "timeMonth": 556,
+    "timeDay": 1363,
+    "timeWeek": 802,
+    "timeMonth": 547,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2024-12-21": 0
+      "2024-12-21": 9
     }
   },
   {
