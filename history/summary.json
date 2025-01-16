@@ -58,18 +58,20 @@
     "url": "https://jnews.io/default/",
     "icon": "https://icons.duckduckgo.com/ip3/jnews.io.ico",
     "slug": "j-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 497,
+    "time": 498,
     "timeDay": 236,
     "timeWeek": 890,
     "timeMonth": 742,
     "timeYear": 539,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-16": 0
+    }
   },
   {
     "name": "JNews TF",
