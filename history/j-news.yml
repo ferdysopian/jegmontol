@@ -1,7 +1,7 @@
 url: https://jnews.io/default/
-status: up
-code: 200
-responseTime: 789
-lastUpdated: 2025-02-14T13:31:34.070Z
+status: down
+code: 500
+responseTime: 614
+lastUpdated: 2025-02-14T13:41:59.417Z
 startTime: 2021-09-10T02:05:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
