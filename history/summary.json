@@ -88,7 +88,7 @@
     "timeMonth": 147,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2026-05-20": 0,
+      "2026-05-20": 162,
       "2026-05-19": 1246,
       "2026-05-18": 810,
       "2026-05-17": 922,
@@ -462,7 +462,7 @@
     "slug": "j-news-tf-preview",
     "status": "down",
     "uptime": "77.88%",
-    "uptimeDay": "42.30%",
+    "uptimeDay": "31.11%",
     "uptimeWeek": "29.48%",
     "uptimeMonth": "13.46%",
     "uptimeYear": "1.01%",
@@ -472,7 +472,7 @@
     "timeMonth": 97,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2026-05-20": 0,
+      "2026-05-20": 161,
       "2026-05-19": 830,
       "2026-05-18": 791,
       "2026-05-17": 1231,
