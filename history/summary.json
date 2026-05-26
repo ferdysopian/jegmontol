@@ -13,7 +13,7 @@
     "time": 456,
     "timeDay": 309,
     "timeWeek": 403,
-    "timeMonth": 417,
+    "timeMonth": 414,
     "timeYear": 437,
     "dailyMinutesDown": {
       "2025-10-28": 39,
@@ -37,7 +37,7 @@
     "time": 287,
     "timeDay": 110,
     "timeWeek": 303,
-    "timeMonth": 488,
+    "timeMonth": 471,
     "timeYear": 314,
     "dailyMinutesDown": {
       "2025-06-15": 71,
@@ -62,7 +62,7 @@
     "time": 434,
     "timeDay": 68,
     "timeWeek": 493,
-    "timeMonth": 225,
+    "timeMonth": 228,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2025-10-03": 25,
@@ -75,17 +75,17 @@
     "url": "https://themeforest.net/item/jnews-one-stop-solution-for-web-publishing/20566392",
     "icon": "https://icons.duckduckgo.com/ip3/themeforest.net.ico",
     "slug": "j-news-tf",
-    "status": "down",
+    "status": "up",
     "uptime": "77.65%",
-    "uptimeDay": "8.78%",
-    "uptimeWeek": "18.95%",
+    "uptimeDay": "8.81%",
+    "uptimeWeek": "18.21%",
     "uptimeMonth": "18.12%",
     "uptimeYear": "1.40%",
     "time": 175,
-    "timeDay": 146,
-    "timeWeek": 156,
-    "timeMonth": 149,
-    "timeYear": 128,
+    "timeDay": 191,
+    "timeWeek": 153,
+    "timeMonth": 151,
+    "timeYear": 129,
     "dailyMinutesDown": {
       "2026-05-06": 1042,
       "2026-05-05": 1440,
@@ -451,7 +451,7 @@
       "2026-05-23": 1377,
       "2026-05-24": 1309,
       "2026-05-25": 1160,
-      "2026-05-26": 1122
+      "2026-05-26": 1288
     }
   },
   {
@@ -460,14 +460,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/preview.themeforest.net.ico",
     "slug": "j-news-tf-preview",
     "status": "down",
-    "uptime": "77.70%",
-    "uptimeDay": "59.49%",
-    "uptimeWeek": "32.81%",
+    "uptime": "77.69%",
+    "uptimeDay": "51.69%",
+    "uptimeWeek": "32.07%",
     "uptimeMonth": "20.61%",
     "uptimeYear": "1.60%",
     "time": 130,
-    "timeDay": 93,
-    "timeWeek": 89,
+    "timeDay": 91,
+    "timeWeek": 87,
     "timeMonth": 95,
     "timeYear": 111,
     "dailyMinutesDown": {
@@ -835,7 +835,7 @@
       "2026-05-23": 1353,
       "2026-05-24": 1142,
       "2026-05-25": 908,
-      "2026-05-26": 508
+      "2026-05-26": 674
     }
   }
 ]
