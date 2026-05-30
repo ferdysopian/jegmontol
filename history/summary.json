@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 455,
-    "timeDay": 382,
-    "timeWeek": 389,
-    "timeMonth": 403,
+    "timeDay": 267,
+    "timeWeek": 373,
+    "timeMonth": 399,
     "timeYear": 436,
     "dailyMinutesDown": {
       "2025-10-28": 39,
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 290,
-    "timeDay": 744,
-    "timeWeek": 529,
-    "timeMonth": 551,
-    "timeYear": 317,
+    "timeDay": 74,
+    "timeWeek": 534,
+    "timeMonth": 535,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2025-06-15": 71,
       "2025-11-18": 134,
@@ -59,9 +59,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 431,
-    "timeDay": 63,
-    "timeWeek": 518,
+    "time": 429,
+    "timeDay": 233,
+    "timeWeek": 538,
     "timeMonth": 225,
     "timeYear": 288,
     "dailyMinutesDown": {
@@ -75,15 +75,15 @@
     "url": "https://themeforest.net/item/jnews-one-stop-solution-for-web-publishing/20566392",
     "icon": "https://icons.duckduckgo.com/ip3/themeforest.net.ico",
     "slug": "j-news-tf",
-    "status": "down",
+    "status": "up",
     "uptime": "77.56%",
-    "uptimeDay": "54.88%",
+    "uptimeDay": "54.91%",
     "uptimeWeek": "17.09%",
     "uptimeMonth": "20.69%",
     "uptimeYear": "1.61%",
     "time": 171,
-    "timeDay": 150,
-    "timeWeek": 155,
+    "timeDay": 153,
+    "timeWeek": 161,
     "timeMonth": 152,
     "timeYear": 130,
     "dailyMinutesDown": {
@@ -428,7 +428,6 @@
       "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
-      "2025-05-30": 1440,
       "2026-05-07": 1280,
       "2026-05-08": 836,
       "2026-05-09": 1183,
@@ -451,7 +450,8 @@
       "2026-05-26": 1288,
       "2026-05-27": 1229,
       "2026-05-28": 1344,
-      "2026-05-29": 647
+      "2026-05-29": 651,
+      "2026-05-30": 2
     }
   },
   {
@@ -461,14 +461,14 @@
     "slug": "j-news-tf-preview",
     "status": "down",
     "uptime": "77.63%",
-    "uptimeDay": "36.17%",
+    "uptimeDay": "35.81%",
     "uptimeWeek": "34.35%",
     "uptimeMonth": "24.73%",
     "uptimeYear": "1.95%",
     "time": 127,
-    "timeDay": 107,
-    "timeWeek": 100,
-    "timeMonth": 98,
+    "timeDay": 103,
+    "timeWeek": 101,
+    "timeMonth": 97,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2026-05-06": 1209,
@@ -812,7 +812,6 @@
       "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
-      "2025-05-30": 1440,
       "2026-05-07": 736,
       "2026-05-08": 1089,
       "2026-05-09": 1230,
@@ -835,7 +834,8 @@
       "2026-05-26": 696,
       "2026-05-27": 758,
       "2026-05-28": 837,
-      "2026-05-29": 919
+      "2026-05-29": 922,
+      "2026-05-30": 2
     }
   }
 ]
