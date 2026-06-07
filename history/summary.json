@@ -13,7 +13,7 @@
     "time": 457,
     "timeDay": 406,
     "timeWeek": 543,
-    "timeMonth": 427,
+    "timeMonth": 425,
     "timeYear": 437,
     "dailyMinutesDown": {
       "2025-10-28": 39,
@@ -37,7 +37,7 @@
     "time": 301,
     "timeDay": 2207,
     "timeWeek": 885,
-    "timeMonth": 600,
+    "timeMonth": 592,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2025-06-15": 71,
@@ -62,7 +62,7 @@
     "time": 422,
     "timeDay": 64,
     "timeWeek": 184,
-    "timeMonth": 232,
+    "timeMonth": 237,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2025-10-03": 25,
@@ -76,15 +76,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/themeforest.net.ico",
     "slug": "j-news-tf",
     "status": "down",
-    "uptime": "77.29%",
-    "uptimeDay": "4.84%",
-    "uptimeWeek": "12.22%",
-    "uptimeMonth": "22.35%",
+    "uptime": "77.25%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "8.54%",
+    "uptimeMonth": "21.99%",
     "uptimeYear": "2.10%",
     "time": 161,
-    "timeDay": 75,
-    "timeWeek": 164,
-    "timeMonth": 153,
+    "timeDay": 19,
+    "timeWeek": 128,
+    "timeMonth": 154,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2026-05-06": 1042,
@@ -451,7 +451,7 @@
       "2026-06-04": 1014,
       "2026-06-06": 1370,
       "2026-06-05": 1440,
-      "2026-06-07": 285
+      "2026-06-07": 1430
     }
   },
   {
@@ -459,15 +459,15 @@
     "url": "https://preview.themeforest.net/item/jnews-one-stop-solution-for-web-publishing/full_screen_preview/20566392",
     "icon": "https://icons.duckduckgo.com/ip3/preview.themeforest.net.ico",
     "slug": "j-news-tf-preview",
-    "status": "down",
-    "uptime": "77.38%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "22.28%",
-    "uptimeMonth": "27.11%",
+    "status": "up",
+    "uptime": "77.34%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "17.49%",
+    "uptimeMonth": "26.16%",
     "uptimeYear": "2.52%",
     "time": 121,
-    "timeDay": 24,
-    "timeWeek": 100,
+    "timeDay": 88,
+    "timeWeek": 104,
     "timeMonth": 96,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -834,7 +834,7 @@
       "2026-06-03": 1340,
       "2026-06-04": 826,
       "2026-06-05": 1168,
-      "2026-06-07": 285,
+      "2026-06-07": 1430,
       "2026-06-06": 1440
     }
   }
