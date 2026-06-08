@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 457,
-    "timeDay": 390,
-    "timeWeek": 528,
-    "timeMonth": 424,
+    "timeDay": 395,
+    "timeWeek": 512,
+    "timeMonth": 425,
     "timeYear": 437,
     "dailyMinutesDown": {
       "2025-10-28": 39,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 302,
-    "timeDay": 706,
+    "time": 303,
+    "timeDay": 785,
     "timeWeek": 865,
-    "timeMonth": 596,
-    "timeYear": 330,
+    "timeMonth": 619,
+    "timeYear": 333,
     "dailyMinutesDown": {
       "2025-06-15": 71,
       "2025-11-18": 134,
@@ -59,10 +59,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 409,
-    "timeDay": 160,
-    "timeWeek": 192,
-    "timeMonth": 234,
+    "time": 408,
+    "timeDay": 155,
+    "timeWeek": 186,
+    "timeMonth": 236,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2025-10-03": 25,
@@ -79,11 +79,11 @@
     "uptime": "77.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "8.54%",
-    "uptimeMonth": "20.66%",
+    "uptimeMonth": "20.61%",
     "uptimeYear": "2.10%",
     "time": 161,
-    "timeDay": 176,
-    "timeWeek": 135,
+    "timeDay": 134,
+    "timeWeek": 133,
     "timeMonth": 154,
     "timeYear": 131,
     "dailyMinutesDown": {
@@ -450,7 +450,7 @@
       "2026-06-04": 1014,
       "2026-06-06": 1370,
       "2026-06-05": 1440,
-      "2026-06-08": 1366,
+      "2026-06-08": 1437,
       "2026-06-07": 1440
     }
   },
@@ -459,16 +459,16 @@
     "url": "https://preview.themeforest.net/item/jnews-one-stop-solution-for-web-publishing/full_screen_preview/20566392",
     "icon": "https://icons.duckduckgo.com/ip3/preview.themeforest.net.ico",
     "slug": "j-news-tf-preview",
-    "status": "down",
+    "status": "up",
     "uptime": "77.30%",
-    "uptimeDay": "7.61%",
+    "uptimeDay": "7.13%",
     "uptimeWeek": "13.14%",
     "uptimeMonth": "25.60%",
     "uptimeYear": "2.54%",
     "time": 121,
-    "timeDay": 126,
-    "timeWeek": 105,
-    "timeMonth": 97,
+    "timeDay": 123,
+    "timeWeek": 106,
+    "timeMonth": 98,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2026-05-06": 1209,
@@ -835,7 +835,7 @@
       "2026-06-05": 1168,
       "2026-06-07": 1431,
       "2026-06-06": 1440,
-      "2026-06-08": 1265
+      "2026-06-08": 1336
     }
   }
 ]
