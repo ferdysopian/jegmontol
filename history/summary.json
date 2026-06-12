@@ -76,15 +76,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/themeforest.net.ico",
     "slug": "j-news-tf",
     "status": "down",
-    "uptime": "77.09%",
+    "uptime": "77.08%",
     "uptimeDay": "14.54%",
     "uptimeWeek": "3.97%",
-    "uptimeMonth": "19.03%",
+    "uptimeMonth": "18.88%",
     "uptimeYear": "2.16%",
     "time": 158,
     "timeDay": 211,
     "timeWeek": 131,
-    "timeMonth": 154,
+    "timeMonth": 155,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2026-05-06": 1042,
@@ -451,7 +451,7 @@
       "2026-06-07": 1440,
       "2026-06-11": 1245,
       "2026-06-10": 1440,
-      "2026-06-12": 0
+      "2026-06-12": 274
     }
   },
   {
@@ -462,12 +462,12 @@
     "status": "down",
     "uptime": "77.19%",
     "uptimeDay": "13.57%",
-    "uptimeWeek": "11.12%",
+    "uptimeWeek": "8.45%",
     "uptimeMonth": "24.93%",
     "uptimeYear": "2.68%",
     "time": 130,
     "timeDay": 140,
-    "timeWeek": 100,
+    "timeWeek": 95,
     "timeMonth": 100,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -835,7 +835,7 @@
       "2026-06-09": 985,
       "2026-06-10": 1354,
       "2026-06-11": 1244,
-      "2026-06-12": 15
+      "2026-06-12": 289
     }
   }
 ]
