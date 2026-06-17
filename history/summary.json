@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 457,
-    "timeDay": 407,
+    "timeDay": 368,
     "timeWeek": 390,
     "timeMonth": 417,
     "timeYear": 435,
@@ -35,7 +35,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 310,
-    "timeDay": 694,
+    "timeDay": 684,
     "timeWeek": 668,
     "timeMonth": 609,
     "timeYear": 338,
@@ -59,7 +59,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 300,
-    "timeDay": 194,
+    "timeDay": 97,
     "timeWeek": 135,
     "timeMonth": 240,
     "timeYear": 284,
@@ -74,15 +74,15 @@
     "url": "https://themeforest.net/item/jnews-one-stop-solution-for-web-publishing/20566392",
     "icon": "https://icons.duckduckgo.com/ip3/themeforest.net.ico",
     "slug": "j-news-tf",
-    "status": "down",
+    "status": "up",
     "uptime": "76.88%",
-    "uptimeDay": "6.07%",
+    "uptimeDay": "6.09%",
     "uptimeWeek": "7.51%",
-    "uptimeMonth": "15.70%",
+    "uptimeMonth": "15.48%",
     "uptimeYear": "2.26%",
-    "time": 153,
-    "timeDay": 68,
-    "timeWeek": 118,
+    "time": 181,
+    "timeDay": 109,
+    "timeWeek": 122,
     "timeMonth": 152,
     "timeYear": 131,
     "dailyMinutesDown": {
@@ -450,7 +450,7 @@
       "2026-06-14": 1313,
       "2026-06-16": 1353,
       "2026-06-15": 1440,
-      "2026-06-17": 9
+      "2026-06-17": 102
     }
   },
   {
@@ -462,10 +462,10 @@
     "uptime": "77.00%",
     "uptimeDay": "24.41%",
     "uptimeWeek": "9.71%",
-    "uptimeMonth": "23.28%",
+    "uptimeMonth": "23.11%",
     "uptimeYear": "2.81%",
     "time": 128,
-    "timeDay": 86,
+    "timeDay": 78,
     "timeWeek": 89,
     "timeMonth": 98,
     "timeYear": 109,
@@ -834,7 +834,7 @@
       "2026-06-12": 1440,
       "2026-06-16": 1097,
       "2026-06-15": 1440,
-      "2026-06-17": 0
+      "2026-06-17": 94
     }
   }
 ]
