@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jnews.io.ico",
     "slug": "j-news",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -75,13 +75,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/themeforest.net.ico",
     "slug": "j-news-tf",
     "status": "down",
-    "uptime": "76.58%",
-    "uptimeDay": "16.53%",
+    "uptime": "76.56%",
+    "uptimeDay": "10.79%",
     "uptimeWeek": "11.63%",
-    "uptimeMonth": "12.83%",
+    "uptimeMonth": "12.48%",
     "uptimeYear": "2.55%",
     "time": 174,
-    "timeDay": 215,
+    "timeDay": 114,
     "timeWeek": 151,
     "timeMonth": 144,
     "timeYear": 132,
@@ -450,7 +450,7 @@
       "2026-06-22": 931,
       "2026-06-23": 1152,
       "2026-06-24": 1202,
-      "2026-06-25": 253
+      "2026-06-25": 892
     }
   },
   {
@@ -458,16 +458,16 @@
     "url": "https://preview.themeforest.net/item/jnews-one-stop-solution-for-web-publishing/full_screen_preview/20566392",
     "icon": "https://icons.duckduckgo.com/ip3/preview.themeforest.net.ico",
     "slug": "j-news-tf-preview",
-    "status": "down",
-    "uptime": "76.70%",
-    "uptimeDay": "20.55%",
-    "uptimeWeek": "12.09%",
-    "uptimeMonth": "18.90%",
+    "status": "up",
+    "uptime": "76.68%",
+    "uptimeDay": "11.13%",
+    "uptimeWeek": "10.75%",
+    "uptimeMonth": "18.55%",
     "uptimeYear": "3.09%",
     "time": 124,
-    "timeDay": 119,
+    "timeDay": 100,
     "timeWeek": 91,
-    "timeMonth": 96,
+    "timeMonth": 97,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2026-05-06": 1209,
@@ -834,7 +834,7 @@
       "2026-06-21": 1440,
       "2026-06-23": 1199,
       "2026-06-24": 1144,
-      "2026-06-25": 253
+      "2026-06-25": 891
     }
   }
 ]
