@@ -450,7 +450,7 @@
       "2026-06-24": 1202,
       "2026-06-25": 1341,
       "2026-06-26": 1148,
-      "2026-06-27": 92
+      "2026-06-27": 246
     }
   },
   {
@@ -460,10 +460,10 @@
     "slug": "j-news-tf-preview",
     "status": "up",
     "uptime": "76.65%",
-    "uptimeDay": "22.07%",
-    "uptimeWeek": "14.85%",
-    "uptimeMonth": "17.10%",
-    "uptimeYear": "3.20%",
+    "uptimeDay": "32.77%",
+    "uptimeWeek": "16.38%",
+    "uptimeMonth": "17.44%",
+    "uptimeYear": "3.23%",
     "time": 123,
     "timeDay": 125,
     "timeWeek": 100,
