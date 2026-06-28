@@ -74,17 +74,17 @@
     "url": "https://themeforest.net/item/jnews-one-stop-solution-for-web-publishing/20566392",
     "icon": "https://icons.duckduckgo.com/ip3/themeforest.net.ico",
     "slug": "j-news-tf",
-    "status": "up",
+    "status": "down",
     "uptime": "76.44%",
-    "uptimeDay": "14.33%",
-    "uptimeWeek": "16.91%",
-    "uptimeMonth": "12.79%",
-    "uptimeYear": "2.67%",
-    "time": 170,
-    "timeDay": 153,
+    "uptimeDay": "18.98%",
+    "uptimeWeek": "17.55%",
+    "uptimeMonth": "12.82%",
+    "uptimeYear": "2.69%",
+    "time": 169,
+    "timeDay": 132,
     "timeWeek": 151,
     "timeMonth": 140,
-    "timeYear": 133,
+    "timeYear": 132,
     "dailyMinutesDown": {
       "2026-05-06": 1042,
       "2026-05-05": 1440,
@@ -462,12 +462,12 @@
     "uptime": "76.58%",
     "uptimeDay": "5.05%",
     "uptimeWeek": "17.06%",
-    "uptimeMonth": "15.14%",
+    "uptimeMonth": "15.11%",
     "uptimeYear": "3.26%",
     "time": 123,
     "timeDay": 84,
     "timeWeek": 101,
-    "timeMonth": 96,
+    "timeMonth": 95,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2026-05-06": 1209,
@@ -834,7 +834,7 @@
       "2026-06-25": 1180,
       "2026-06-26": 1122,
       "2026-06-27": 1198,
-      "2026-06-28": 1294
+      "2026-06-28": 1361
     }
   }
 ]
