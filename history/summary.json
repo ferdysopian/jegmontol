@@ -29,7 +29,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/templatekit.jegtheme.com.ico",
     "slug": "templatekit",
     "status": "up",
-    "uptime": "98.13%",
+    "uptime": "98.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -76,10 +76,10 @@
     "slug": "j-news-tf",
     "status": "up",
     "uptime": "76.39%",
-    "uptimeDay": "37.13%",
-    "uptimeWeek": "18.09%",
-    "uptimeMonth": "12.35%",
-    "uptimeYear": "2.85%",
+    "uptimeDay": "48.55%",
+    "uptimeWeek": "19.73%",
+    "uptimeMonth": "12.73%",
+    "uptimeYear": "2.88%",
     "time": 166,
     "timeDay": 145,
     "timeWeek": 146,
@@ -834,7 +834,7 @@
       "2026-06-28": 1367,
       "2026-06-29": 211,
       "2026-06-30": 1243,
-      "2026-07-01": 118
+      "2026-07-01": 283
     }
   }
 ]
