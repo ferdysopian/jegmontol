@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 458,
-    "timeDay": 500,
-    "timeWeek": 454,
+    "timeDay": 460,
+    "timeWeek": 449,
     "timeMonth": 408,
     "timeYear": 435,
     "dailyMinutesDown": {
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 325,
-    "timeDay": 102,
-    "timeWeek": 500,
-    "timeMonth": 582,
-    "timeYear": 355,
+    "timeDay": 80,
+    "timeWeek": 445,
+    "timeMonth": 565,
+    "timeYear": 354,
     "dailyMinutesDown": {
       "2025-11-18": 134,
       "2025-12-19": 53,
@@ -58,10 +58,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 288,
-    "timeDay": 82,
+    "time": 287,
+    "timeDay": 116,
     "timeWeek": 149,
-    "timeMonth": 134,
+    "timeMonth": 135,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2025-10-03": 25,
@@ -77,13 +77,13 @@
     "status": "down",
     "uptime": "76.29%",
     "uptimeDay": "25.43%",
-    "uptimeWeek": "31.40%",
+    "uptimeWeek": "31.33%",
     "uptimeMonth": "17.59%",
     "uptimeYear": "3.45%",
     "time": 157,
-    "timeDay": 150,
-    "timeWeek": 155,
-    "timeMonth": 139,
+    "timeDay": 129,
+    "timeWeek": 152,
+    "timeMonth": 138,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2026-05-06": 1042,
@@ -450,7 +450,7 @@
       "2026-07-05": 946,
       "2026-07-04": 1440,
       "2026-07-06": 558,
-      "2026-07-07": 1054
+      "2026-07-07": 1061
     }
   },
   {
@@ -458,15 +458,15 @@
     "url": "https://preview.themeforest.net/item/jnews-one-stop-solution-for-web-publishing/full_screen_preview/20566392",
     "icon": "https://icons.duckduckgo.com/ip3/preview.themeforest.net.ico",
     "slug": "j-news-tf-preview",
-    "status": "down",
+    "status": "up",
     "uptime": "97.27%",
-    "uptimeDay": "3.76%",
-    "uptimeWeek": "17.25%",
+    "uptimeDay": "3.77%",
+    "uptimeWeek": "17.19%",
     "uptimeMonth": "17.56%",
     "uptimeYear": "86.95%",
     "time": 119,
-    "timeDay": 80,
-    "timeWeek": 108,
+    "timeDay": 81,
+    "timeWeek": 107,
     "timeMonth": 97,
     "timeYear": 107,
     "dailyMinutesDown": {
@@ -531,7 +531,7 @@
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-06": 690,
-      "2026-07-07": 1366
+      "2026-07-07": 1373
     }
   }
 ]
