@@ -77,9 +77,9 @@
     "status": "up",
     "uptime": "76.31%",
     "uptimeDay": "56.47%",
-    "uptimeWeek": "33.01%",
-    "uptimeMonth": "16.76%",
-    "uptimeYear": "3.38%",
+    "uptimeWeek": "34.74%",
+    "uptimeMonth": "17.16%",
+    "uptimeYear": "3.41%",
     "time": 158,
     "timeDay": 190,
     "timeWeek": 156,
@@ -460,10 +460,10 @@
     "slug": "j-news-tf-preview",
     "status": "down",
     "uptime": "97.29%",
-    "uptimeDay": "47.20%",
+    "uptimeDay": "35.04%",
     "uptimeWeek": "18.60%",
     "uptimeMonth": "17.44%",
-    "uptimeYear": "87.09%",
+    "uptimeYear": "87.05%",
     "time": 119,
     "timeDay": 124,
     "timeWeek": 114,
@@ -531,7 +531,7 @@
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-06": 690,
-      "2026-07-07": 70
+      "2026-07-07": 245
     }
   }
 ]
