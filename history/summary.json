@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 458,
-    "timeDay": 419,
-    "timeWeek": 469,
-    "timeMonth": 409,
-    "timeYear": 435,
+    "timeDay": 524,
+    "timeWeek": 476,
+    "timeMonth": 413,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2025-10-28": 39,
       "2025-11-18": 143,
@@ -34,10 +34,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 325,
-    "timeDay": 58,
-    "timeWeek": 499,
-    "timeMonth": 560,
+    "time": 324,
+    "timeDay": 56,
+    "timeWeek": 444,
+    "timeMonth": 533,
     "timeYear": 354,
     "dailyMinutesDown": {
       "2025-11-18": 134,
@@ -58,10 +58,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 287,
-    "timeDay": 149,
-    "timeWeek": 138,
-    "timeMonth": 134,
+    "time": 286,
+    "timeDay": 185,
+    "timeWeek": 144,
+    "timeMonth": 135,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2025-10-03": 25,
@@ -74,16 +74,16 @@
     "url": "https://themeforest.net/item/jnews-one-stop-solution-for-web-publishing/20566392",
     "icon": "https://icons.duckduckgo.com/ip3/themeforest.net.ico",
     "slug": "j-news-tf",
-    "status": "down",
+    "status": "up",
     "uptime": "97.13%",
-    "uptimeDay": "35.02%",
+    "uptimeDay": "35.05%",
     "uptimeWeek": "29.70%",
-    "uptimeMonth": "18.74%",
-    "uptimeYear": "86.30%",
+    "uptimeMonth": "18.75%",
+    "uptimeYear": "86.28%",
     "time": 155,
-    "timeDay": 117,
-    "timeWeek": 142,
-    "timeMonth": 137,
+    "timeDay": 146,
+    "timeWeek": 147,
+    "timeMonth": 139,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2026-05-08": 836,
@@ -148,7 +148,7 @@
       "2026-07-04": 1440,
       "2026-07-06": 558,
       "2026-07-07": 1074,
-      "2026-07-08": 853
+      "2026-07-08": 934
     }
   },
   {
@@ -157,14 +157,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/preview.themeforest.net.ico",
     "slug": "j-news-tf-preview",
     "status": "down",
-    "uptime": "97.28%",
-    "uptimeDay": "48.75%",
+    "uptime": "97.27%",
+    "uptimeDay": "43.64%",
     "uptimeWeek": "23.62%",
-    "uptimeMonth": "18.81%",
-    "uptimeYear": "86.98%",
-    "time": 118,
-    "timeDay": 100,
-    "timeWeek": 108,
+    "uptimeMonth": "18.78%",
+    "uptimeYear": "86.97%",
+    "time": 117,
+    "timeDay": 92,
+    "timeWeek": 105,
     "timeMonth": 95,
     "timeYear": 107,
     "dailyMinutesDown": {
@@ -229,7 +229,7 @@
       "2026-07-03": 1440,
       "2026-07-06": 690,
       "2026-07-07": 1366,
-      "2026-07-08": 729
+      "2026-07-08": 811
     }
   }
 ]
