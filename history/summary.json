@@ -12,8 +12,8 @@
     "uptimeYear": "99.94%",
     "time": 460,
     "timeDay": 738,
-    "timeWeek": 529,
-    "timeMonth": 451,
+    "timeWeek": 548,
+    "timeMonth": 454,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2025-10-28": 39,
@@ -36,8 +36,8 @@
     "uptimeYear": "99.93%",
     "time": 329,
     "timeDay": 838,
-    "timeWeek": 519,
-    "timeMonth": 518,
+    "timeWeek": 477,
+    "timeMonth": 513,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2025-11-18": 134,
@@ -60,8 +60,8 @@
     "uptimeYear": "99.96%",
     "time": 294,
     "timeDay": 2442,
-    "timeWeek": 844,
-    "timeMonth": 319,
+    "timeWeek": 952,
+    "timeMonth": 326,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2025-10-03": 25,
@@ -74,20 +74,20 @@
     "url": "https://themeforest.net/item/jnews-one-stop-solution-for-web-publishing/20566392",
     "icon": "https://icons.duckduckgo.com/ip3/themeforest.net.ico",
     "slug": "j-news-tf",
-    "status": "up",
-    "uptime": "97.12%",
-    "uptimeDay": "25.91%",
-    "uptimeWeek": "28.81%",
-    "uptimeMonth": "24.04%",
-    "uptimeYear": "86.17%",
-    "time": 168,
-    "timeDay": 266,
-    "timeWeek": 158,
+    "status": "down",
+    "uptime": "97.13%",
+    "uptimeDay": "31.36%",
+    "uptimeWeek": "29.09%",
+    "uptimeMonth": "24.22%",
+    "uptimeYear": "86.23%",
+    "time": 167,
+    "timeDay": 230,
+    "timeWeek": 154,
     "timeMonth": 147,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2026-05-14": 367,
       "2026-05-15": 1235,
+      "2026-05-14": 81,
       "2026-05-16": 892,
       "2026-05-17": 922,
       "2026-05-18": 810,
@@ -149,7 +149,8 @@
       "2026-07-13": 1164,
       "2026-07-14": 1148,
       "2026-07-15": 651,
-      "2026-07-16": 1057
+      "2026-07-16": 1057,
+      "2026-07-17": 0
     }
   },
   {
@@ -157,15 +158,15 @@
     "url": "https://preview.themeforest.net/item/jnews-one-stop-solution-for-web-publishing/full_screen_preview/20566392",
     "icon": "https://icons.duckduckgo.com/ip3/preview.themeforest.net.ico",
     "slug": "j-news-tf-preview",
-    "status": "down",
+    "status": "up",
     "uptime": "97.25%",
-    "uptimeDay": "15.78%",
-    "uptimeWeek": "18.12%",
-    "uptimeMonth": "19.72%",
-    "uptimeYear": "86.82%",
+    "uptimeDay": "15.79%",
+    "uptimeWeek": "17.62%",
+    "uptimeMonth": "19.68%",
+    "uptimeYear": "86.80%",
     "time": 112,
-    "timeDay": 52,
-    "timeWeek": 93,
+    "timeDay": 57,
+    "timeWeek": 88,
     "timeMonth": 96,
     "timeYear": 106,
     "dailyMinutesDown": {
@@ -230,7 +231,8 @@
       "2026-07-13": 1305,
       "2026-07-14": 1142,
       "2026-07-15": 1044,
-      "2026-07-16": 1202
+      "2026-07-16": 1212,
+      "2026-07-17": 69
     }
   }
 ]
