@@ -11,9 +11,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
     "time": 460,
-    "timeDay": 617,
+    "timeDay": 594,
     "timeWeek": 506,
-    "timeMonth": 484,
+    "timeMonth": 487,
     "timeYear": 441,
     "dailyMinutesDown": {
       "2025-10-28": 39,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 339,
-    "timeDay": 425,
+    "timeDay": 49,
     "timeWeek": 286,
-    "timeMonth": 496,
+    "timeMonth": 509,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2025-11-18": 134,
@@ -60,9 +60,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 340,
-    "timeDay": 2649,
+    "timeDay": 3801,
     "timeWeek": 2093,
-    "timeMonth": 1075,
+    "timeMonth": 1109,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2025-10-03": 25,
@@ -75,21 +75,20 @@
     "url": "https://themeforest.net/item/jnews-one-stop-solution-for-web-publishing/20566392",
     "icon": "https://icons.duckduckgo.com/ip3/themeforest.net.ico",
     "slug": "j-news-tf",
-    "status": "up",
-    "uptime": "96.85%",
-    "uptimeDay": "5.87%",
-    "uptimeWeek": "6.03%",
-    "uptimeMonth": "22.42%",
-    "uptimeYear": "84.76%",
+    "status": "down",
+    "uptime": "96.89%",
+    "uptimeDay": "10.88%",
+    "uptimeWeek": "6.74%",
+    "uptimeMonth": "22.58%",
+    "uptimeYear": "84.98%",
     "time": 155,
-    "timeDay": 146,
-    "timeWeek": 141,
+    "timeDay": 153,
+    "timeWeek": 136,
     "timeMonth": 148,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2026-05-23": 1377,
-      "2026-05-22": 226,
       "2026-05-24": 1309,
+      "2026-05-23": 422,
       "2026-05-25": 1160,
       "2026-05-26": 1288,
       "2026-05-27": 1229,
@@ -154,7 +153,8 @@
       "2026-07-26": 1368,
       "2026-07-25": 1440,
       "2026-07-28": 1346,
-      "2026-07-27": 1440
+      "2026-07-27": 1440,
+      "2026-07-29": 0
     }
   },
   {
@@ -164,12 +164,12 @@
     "slug": "j-news-tf-preview",
     "status": "down",
     "uptime": "97.26%",
-    "uptimeDay": "32.58%",
+    "uptimeDay": "27.97%",
     "uptimeWeek": "13.72%",
-    "uptimeMonth": "23.13%",
-    "uptimeYear": "86.77%",
+    "uptimeMonth": "22.98%",
+    "uptimeYear": "86.76%",
     "time": 114,
-    "timeDay": 87,
+    "timeDay": 88,
     "timeWeek": 94,
     "timeMonth": 101,
     "timeYear": 106,
@@ -233,7 +233,8 @@
       "2026-07-27": 1282,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
-      "2026-07-28": 967
+      "2026-07-28": 976,
+      "2026-07-29": 63
     }
   }
 ]
