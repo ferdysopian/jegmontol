@@ -12,8 +12,8 @@
     "uptimeYear": "99.93%",
     "time": 461,
     "timeDay": 568,
-    "timeWeek": 455,
-    "timeMonth": 485,
+    "timeWeek": 460,
+    "timeMonth": 484,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2025-10-28": 39,
@@ -37,8 +37,8 @@
     "uptimeYear": "99.93%",
     "time": 381,
     "timeDay": 4272,
-    "timeWeek": 1567,
-    "timeMonth": 1068,
+    "timeWeek": 1777,
+    "timeMonth": 1100,
     "timeYear": 430,
     "dailyMinutesDown": {
       "2025-11-18": 134,
@@ -61,8 +61,8 @@
     "uptimeYear": "99.96%",
     "time": 348,
     "timeDay": 104,
-    "timeWeek": 260,
-    "timeMonth": 1211,
+    "timeWeek": 235,
+    "timeMonth": 1243,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2025-10-03": 25,
@@ -75,16 +75,16 @@
     "url": "https://themeforest.net/item/jnews-one-stop-solution-for-web-publishing/20566392",
     "icon": "https://icons.duckduckgo.com/ip3/themeforest.net.ico",
     "slug": "j-news-tf",
-    "status": "up",
+    "status": "down",
     "uptime": "97.04%",
-    "uptimeDay": "20.58%",
-    "uptimeWeek": "5.66%",
-    "uptimeMonth": "9.48%",
-    "uptimeYear": "85.56%",
+    "uptimeDay": "21.36%",
+    "uptimeWeek": "6.32%",
+    "uptimeMonth": "9.65%",
+    "uptimeYear": "85.57%",
     "time": 142,
-    "timeDay": 184,
-    "timeWeek": 146,
-    "timeMonth": 161,
+    "timeDay": 170,
+    "timeWeek": 144,
+    "timeMonth": 160,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2026-06-12": 1310,
@@ -149,7 +149,8 @@
       "2026-08-10": 1266,
       "2026-08-09": 1440,
       "2026-08-11": 1354,
-      "2026-08-12": 1145
+      "2026-08-12": 1133,
+      "2026-08-13": 0
     }
   },
   {
@@ -159,13 +160,13 @@
     "slug": "j-news-tf-preview",
     "status": "down",
     "uptime": "96.68%",
-    "uptimeDay": "24.34%",
+    "uptimeDay": "20.65%",
     "uptimeWeek": "6.56%",
     "uptimeMonth": "11.67%",
-    "uptimeYear": "83.83%",
+    "uptimeYear": "83.82%",
     "time": 109,
-    "timeDay": 86,
-    "timeWeek": 101,
+    "timeDay": 85,
+    "timeWeek": 103,
     "timeMonth": 98,
     "timeYear": 105,
     "dailyMinutesDown": {
@@ -238,7 +239,8 @@
       "2026-08-03": 1440,
       "2026-08-10": 1338,
       "2026-08-11": 1320,
-      "2026-08-12": 1080
+      "2026-08-12": 1098,
+      "2026-08-13": 45
     }
   }
 ]
