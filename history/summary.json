@@ -145,7 +145,7 @@
       "2026-08-11": 1354,
       "2026-08-12": 1133,
       "2026-08-13": 1146,
-      "2026-08-15": 743,
+      "2026-08-15": 784,
       "2026-08-14": 1440
     }
   },
@@ -154,15 +154,15 @@
     "url": "https://preview.themeforest.net/item/jnews-one-stop-solution-for-web-publishing/full_screen_preview/20566392",
     "icon": "https://icons.duckduckgo.com/ip3/preview.themeforest.net.ico",
     "slug": "j-news-tf-preview",
-    "status": "down",
+    "status": "up",
     "uptime": "96.56%",
-    "uptimeDay": "3.05%",
-    "uptimeWeek": "6.99%",
+    "uptimeDay": "3.07%",
+    "uptimeWeek": "7.00%",
     "uptimeMonth": "10.02%",
-    "uptimeYear": "83.20%",
+    "uptimeYear": "83.19%",
     "time": 108,
-    "timeDay": 85,
-    "timeWeek": 106,
+    "timeDay": 98,
+    "timeWeek": 108,
     "timeMonth": 100,
     "timeYear": 105,
     "dailyMinutesDown": {
@@ -235,7 +235,7 @@
       "2026-08-10": 1338,
       "2026-08-11": 1320,
       "2026-08-12": 1098,
-      "2026-08-15": 825,
+      "2026-08-15": 866,
       "2026-08-14": 1440,
       "2026-08-13": 1440
     }
