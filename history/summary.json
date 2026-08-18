@@ -30,7 +30,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/templatekit.jegtheme.com.ico",
     "slug": "templatekit",
     "status": "up",
-    "uptime": "98.18%",
+    "uptime": "98.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -75,16 +75,16 @@
     "url": "https://themeforest.net/item/jnews-one-stop-solution-for-web-publishing/20566392",
     "icon": "https://icons.duckduckgo.com/ip3/themeforest.net.ico",
     "slug": "j-news-tf",
-    "status": "down",
-    "uptime": "97.60%",
-    "uptimeDay": "27.25%",
-    "uptimeWeek": "12.63%",
-    "uptimeMonth": "7.24%",
-    "uptimeYear": "88.28%",
-    "time": 155,
-    "timeDay": 150,
-    "timeWeek": 146,
-    "timeMonth": 154,
+    "status": "up",
+    "uptime": "97.59%",
+    "uptimeDay": "14.91%",
+    "uptimeWeek": "12.64%",
+    "uptimeMonth": "7.10%",
+    "uptimeYear": "88.22%",
+    "time": 156,
+    "timeDay": 168,
+    "timeWeek": 153,
+    "timeMonth": 158,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2026-06-28": 807,
@@ -138,7 +138,7 @@
       "2026-08-14": 1440,
       "2026-08-16": 1403,
       "2026-08-17": 1042,
-      "2026-08-18": 701
+      "2026-08-18": 1006
     }
   },
   {
@@ -146,16 +146,16 @@
     "url": "https://preview.themeforest.net/item/jnews-one-stop-solution-for-web-publishing/full_screen_preview/20566392",
     "icon": "https://icons.duckduckgo.com/ip3/preview.themeforest.net.ico",
     "slug": "j-news-tf-preview",
-    "status": "down",
-    "uptime": "97.07%",
-    "uptimeDay": "7.19%",
+    "status": "up",
+    "uptime": "97.06%",
+    "uptimeDay": "0.03%",
     "uptimeWeek": "7.53%",
-    "uptimeMonth": "8.26%",
-    "uptimeYear": "85.67%",
+    "uptimeMonth": "7.99%",
+    "uptimeYear": "85.61%",
     "time": 116,
-    "timeDay": 121,
-    "timeWeek": 104,
-    "timeMonth": 102,
+    "timeDay": 200,
+    "timeWeek": 110,
+    "timeMonth": 104,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2026-06-19": 1276,
@@ -219,7 +219,7 @@
       "2026-08-13": 1440,
       "2026-08-16": 1309,
       "2026-08-17": 1311,
-      "2026-08-18": 721
+      "2026-08-18": 1026
     }
   }
 ]
