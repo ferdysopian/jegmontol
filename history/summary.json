@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 461,
-    "timeDay": 354,
-    "timeWeek": 435,
-    "timeMonth": 465,
+    "timeDay": 539,
+    "timeWeek": 431,
+    "timeMonth": 464,
     "timeYear": 441,
     "dailyMinutesDown": {
       "2025-10-28": 39,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 384,
-    "timeDay": 76,
-    "timeWeek": 973,
-    "timeMonth": 982,
+    "timeDay": 115,
+    "timeWeek": 379,
+    "timeMonth": 959,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2025-11-18": 134,
@@ -60,9 +60,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 349,
-    "timeDay": 267,
-    "timeWeek": 239,
-    "timeMonth": 964,
+    "timeDay": 438,
+    "timeWeek": 287,
+    "timeMonth": 916,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2025-10-03": 25,
@@ -76,15 +76,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/themeforest.net.ico",
     "slug": "j-news-tf",
     "status": "down",
-    "uptime": "97.62%",
+    "uptime": "97.61%",
     "uptimeDay": "4.64%",
-    "uptimeWeek": "10.84%",
+    "uptimeWeek": "9.82%",
     "uptimeMonth": "6.89%",
-    "uptimeYear": "88.34%",
+    "uptimeYear": "88.31%",
     "time": 154,
-    "timeDay": 170,
-    "timeWeek": 148,
-    "timeMonth": 158,
+    "timeDay": 165,
+    "timeWeek": 147,
+    "timeMonth": 157,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2026-06-30": 511,
@@ -137,7 +137,8 @@
       "2026-08-16": 1403,
       "2026-08-17": 1042,
       "2026-08-18": 1388,
-      "2026-08-19": 1315
+      "2026-08-19": 1373,
+      "2026-08-20": 101
     }
   },
   {
@@ -149,11 +150,11 @@
     "uptime": "97.33%",
     "uptimeDay": "13.67%",
     "uptimeWeek": "5.78%",
-    "uptimeMonth": "7.49%",
-    "uptimeYear": "86.95%",
+    "uptimeMonth": "7.43%",
+    "uptimeYear": "86.92%",
     "time": 114,
-    "timeDay": 88,
-    "timeWeek": 107,
+    "timeDay": 93,
+    "timeWeek": 108,
     "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {
@@ -213,7 +214,8 @@
       "2026-08-16": 1309,
       "2026-08-17": 1311,
       "2026-08-18": 1407,
-      "2026-08-19": 1185
+      "2026-08-19": 1244,
+      "2026-08-20": 101
     }
   }
 ]
